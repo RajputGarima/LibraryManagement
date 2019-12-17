@@ -19,4 +19,4 @@ Features of the system:
 9. Approve indent
 10. View transaction history for admin
 
-All the above features run multiple, efficient SQL queries on the database to fetch the correct results in minimal time. The consistency, integrity of the database is maintained after every transaction.
+All the above features run multiple, efficient SQL queries on the huge database to fetch correct results in minimal time. The consistency, integrity of the database is maintained after every transaction.
