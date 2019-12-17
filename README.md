@@ -4,12 +4,12 @@ Built a library management system using HTML, CSS for frontend and PHP, PostgreS
 
 Features of the system:
 1. Login
-* as admin
-* as student
+  * as admin
+  * as student
 2. Search a book
-* by title
-* by author
-* by subject
+  * by title
+  * by author
+  * by subject
 3. Addition of a new admin by existing admin
 4. Add/Edit a member 
 5. Extend/cancel membership 
@@ -19,4 +19,4 @@ Features of the system:
 9. Approve indent
 10. View transaction history for admin
 
-All the above features run multiple SQL queries on the database to fetch the correct results. The consistency, integrity of the database is maintained after every transaction.
+All the above features run multiple, efficient SQL queries on the database to fetch the correct results in minimal time. The consistency, integrity of the database is maintained after every transaction.
