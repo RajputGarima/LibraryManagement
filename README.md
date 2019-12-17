@@ -1,4 +1,4 @@
-# LibraryMangement
+# LibraryManagement
 
 Built a library management system using HTML, CSS for frontend and PHP, PostgreSQL for backend that runs on localhost. This is basically a database application which deploys huge, real-time DRDO's Defense Science Library data at the backend. <br />
 
