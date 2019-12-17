@@ -19,4 +19,6 @@ Features of the system:
 9. Approve indent
 10. View transaction history for admin
 
-All the above features run multiple, efficient SQL queries on the huge database to fetch correct results in minimal time. The consistency, integrity of the database is maintained after every transaction.
+All the above features run multiple, efficient SQL queries on the huge database to fetch correct results in minimal time. The consistency, integrity of the database is maintained after every transaction. <br />
+
+> To run the application, go to the localhost in your browser, copy Library Management folder which has all the above scripts and run the script - **demo.php** which will launch the first screen of my system.
